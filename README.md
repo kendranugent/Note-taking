@@ -1,7 +1,7 @@
 # Overview
 This program was developed to practice using typescript and integrating it with javascript
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=wGejsVkYY80)
 
 # Development Environment
 
